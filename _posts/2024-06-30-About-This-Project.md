@@ -5,7 +5,8 @@ categories:
 tags:
   - major_projects
   - backend  
-
+  
+sidebar:
   nav: "sidebar-category"
 ---
 
