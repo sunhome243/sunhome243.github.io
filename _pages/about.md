@@ -24,7 +24,7 @@ Hi! My name is **Sunho Kim**. I am currently studying at **Denison University**,
 
 I have experience with several programming languages and libraries, which help me build efficient and effective backend systems:
 
-- [Python](https://sunhome243.github.io/tags/#backend)
+- [Python](https://sunhome243.github.io/tags/#python)
 - [FastAPI](https://sunhome243.github.io/tags/#fast-api)
 - [Flask](https://sunhome243.github.io/tags/#flask)
 - Go
