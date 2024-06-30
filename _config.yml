@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Sunho Kim"
   avatar           : "/assets/images/bio-pic.jpg"
-  bio              : "I am a **developer** 🧑🏻‍💻<br> a **photographer** 📸 <br> and a **learner** 💡"
+  bio              : "I am<br>a **developer** 🧑🏻‍💻<br>a **photographer** 📸 <br>a **learner** 💡"
   location         : "OH, USA"
   links:
     - label: "Email"

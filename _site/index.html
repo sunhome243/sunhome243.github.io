@@ -10,22 +10,22 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Site Title - Site Title</title>
-<meta name="description" content="An amazing website.">
+<!-- begin _includes/seo.html --><title>Lines and Lens - Lines and Lens</title>
+<meta name="description" content="Explore my photos and see my latest coding endeavors!">
 
 
-  <meta name="author" content="Your Name">
+  <meta name="author" content="Sunho Kim">
   
 
 
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
-<meta property="og:site_name" content="Site Title">
-<meta property="og:title" content="Site Title">
+<meta property="og:site_name" content="Lines and Lens">
+<meta property="og:title" content="Lines and Lens">
 <meta property="og:url" content="http://localhost:4000/">
 
 
-  <meta property="og:description" content="An amazing website.">
+  <meta property="og:description" content="Explore my photos and see my latest coding endeavors!">
 
 
 
@@ -46,13 +46,15 @@
 
 
 
+  <link rel="next" href="http://localhost:4000/page2/">
+
 
 
   <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Person",
-    "name": "Your Name",
+    "name": "Sunho Kim",
     "url": "http://localhost:4000/"
 }
 </script>
@@ -68,13 +70,11 @@
 <!-- end _includes/seo.html -->
 
 
-
-  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Site Title Feed">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <script type="text/javascript">
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
-  
+  window.enable_copy_code_button = true;
 </script>
 
 <!-- For all browsers -->
@@ -87,7 +87,13 @@
     <!-- start custom head snippets -->
 
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
-
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
 <!-- end custom head snippets -->
 
   </head>
@@ -109,16 +115,39 @@
       <nav id="site-nav" class="greedy-nav">
         
         <a class="site-title" href="/">
-          Site Title
-          
+          Lines 👨🏻‍💻 and Lens 📸
+          <span class="site-subtitle">v.1</span>
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
               <a
-                href="https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/"
+                href="/"
                 
                 
-              >Quick-Start Guide</a>
+              >Home</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/about/"
+                
+                
+              >READ (about) ME</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/categories/"
+                
+                
+              >Category</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/tags/"
+                
+                
+              >Tags</a>
             </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
         
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">Toggle menu</span>
@@ -145,14 +174,20 @@
 <div itemscope itemtype="https://schema.org/Person" class="h-card">
 
   
+    <div class="author__avatar">
+      <a href="http://localhost:4000/">
+        <img src="/assets/images/bio-pic.jpg" alt="Sunho Kim" itemprop="image" class="u-photo">
+      </a>
+    </div>
+  
 
   <div class="author__content">
     <h3 class="author__name p-name" itemprop="name">
-      <a class="u-url" rel="me" href="http://localhost:4000/" itemprop="url">Your Name</a>
+      <a class="u-url" rel="me" href="http://localhost:4000/" itemprop="url">Sunho Kim</a>
     </h3>
     
       <div class="author__bio p-note" itemprop="description">
-        <p>I am an <strong>amazing</strong> person.</p>
+        <p>I am a <strong>developer</strong> 🧑🏻‍💻<br /> a <strong>photographer</strong> 📸 <br /> and a <strong>learner</strong> 💡</p>
 
       </div>
     
@@ -163,22 +198,22 @@
     <ul class="author__urls social-icons">
       
         <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
-          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name" class="p-locality">Somewhere</span>
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name" class="p-locality">OH, USA</span>
         </li>
       
 
       
         
           
-        
+            <li><a href="mailto:sunhome243@email.com" rel="nofollow noopener noreferrer me"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">Email</span></a></li>
           
         
           
-        
+            <li><a href="https://www.linkedin.com/in/sunho-kim-46609522a/" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fas fa-fw fa-link" aria-hidden="true"></i><span class="label">LinkedIn</span></a></li>
           
         
           
-        
+            <li><a href="https://github.com/sunhome243" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a></li>
           
         
       
@@ -243,6 +278,70 @@
 </div>
 
   
+    
+      
+      
+      
+      
+    
+    
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">Toggle menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <span class="nav__sub-title">💻 Programming</span>
+        
+
+        
+        <ul>
+          
+          
+          
+          
+          
+
+            <li><a href="/projects">Projects(1)</a></li>
+          
+          
+          
+          
+          
+
+            <li><a href="/errors">Error Notes(0)</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">📸 Photos</span>
+        
+
+        
+        <ul>
+          
+          
+          
+          
+          
+
+            <li><a href="/gallery">Gallery(0)</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+    
+  
   </div>
 
 
@@ -260,8 +359,264 @@
 
 <div class="entries-list">
   
+    
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/jekyll/post-exclude-search/" rel="permalink">Exclude Post from Search Index
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          less than 1 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">This post should not appear in the search index because it has the following YAML Front Matter:
+</p>
+  </article>
 </div>
 
+  
+    
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/layout/uncategorized/layout-header-video/" rel="permalink">Layout: Header Video
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          less than 1 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">This post should display a header with a responsive video, if the theme supports it.
+</p>
+  </article>
+</div>
+
+  
+    
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/jekyll/gemified-theme-beta/" rel="permalink">Gemified Theme – Beta Release
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          2 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Hot on the heels of Jekyll v3.3.0 is a beta release of Minimal Mistakes… as a gemified theme.
+</p>
+  </article>
+</div>
+
+  
+    
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/jekyll/gemified-theme-alpha/" rel="permalink">Gemified Theme – Alpha Release
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          2 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Jekyll themes distributed as Ruby gems are finally here to make installing and upgrading much easier. Gone are the days of forking a repo just to “install it...</p>
+  </article>
+</div>
+
+  
+    
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/jekyll/welcome-to-jekyll/" rel="permalink">Welcome to Jekyll!
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          less than 1 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different wa...</p>
+  </article>
+</div>
+
+  
+</div>
+
+
+  
+    
+<nav class="pagination">
+  
+  
+  <ul>
+    
+    
+    <li><a href="#" class="disabled"><span aria-hidden="true">Previous</span></a></li>
+    
+
+    
+    
+      <li><a href="#" class="disabled current">1</a></li>
+    
+
+    
+    
+
+    
+    
+    
+
+    
+      
+        
+        
+        
+        <li><a href="/page2/">2</a></li>
+      
+    
+      
+        
+        
+        
+        <li><a href="/page3/">3</a></li>
+      
+    
+
+    
+    
+      <li><a href="#" class="disabled">&hellip;</a></li>
+    
+
+    
+      <li><a href="/page14/">14</a></li>
+    
+
+    
+    
+      <li><a href="/page2/">Next</a></li>
+    
+  </ul>
+</nav>
+
+
+  
 
 
 
@@ -271,6 +626,17 @@
       
     </div>
 
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';" role="search">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
+
+      </div>
     
 
     <div id="footer" class="page__footer">
@@ -287,26 +653,23 @@
     
       
         
-      
+          <li><a href="mailto:sunhome243@email.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
         
       
         
-      
+          <li><a href="https://www.linkedin.com/in/sunho-kim-46609522a/" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> LinkedIn</a></li>
         
       
         
-      
+          <li><a href="https://github.com/sunhome243" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
         
       
     
 
-    
-      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
     
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2024 <a href="http://localhost:4000">Site Title</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
 
       </footer>
     </div>
@@ -316,6 +679,10 @@
 
 
 
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
 
 
 
