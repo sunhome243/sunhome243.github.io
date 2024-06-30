@@ -1,7 +1,7 @@
 ---
-title: "The Hangman Game"
+title: "The Hangman Game Error Note"
 categories:
-  - projects
+  - errors
 tags:
   - Minor Projects
   - Independant Project
@@ -20,27 +20,7 @@ sidebar:
   nav: "sidebar-category"
 ---
 
-# The Hangman Game
-
-## Project Description
-
-Welcome to my very first project, Hangman—the classic word guessing game where players attempt to uncover a hidden word letter by letter. This web application brings the excitement of Hangman to your browser, featuring a collection of over 700 words for endless entertainment.
-
-### **Features**
-
-- **Word Database**: Enjoy a diverse selection of over 700 words, ensuring each game is unique and challenging.
-- **Score Tracking**: Keep track of your progress with a built-in scoring system that records wins and streaks.
-- **Player Persistence**: Resume your game right where you left off by reusing your player name to jump back into the action.
-
-### Technologies Used
-
-- **Frontend**: Designed with JavaScript, CSS, and HTML to provide an intuitive and engaging user experience.
-- **Frontend**: JavaScript, CSS, and HTML
-- **Backend**: Python (Flask)
-- **Containerization**: Docker
-- **Orchestration**: Kubernetes
-- **CI/CD Pipeline**: Jenkins
-- **Persistent Storage**: Azure (PV/PVC)
+Errors that I have encountered during a minor project to create web-based Hangman Game
 
 ## Challenges and Learnings
 

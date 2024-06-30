@@ -16,6 +16,8 @@ sidebar:
   nav: "sidebar-category"
 ---
 
+A major project to create Fitness recording app.
+
 - Techniques Used
     - Backend: Fast API
     - Frontend: Flutter or Swift or React Native (UI design exported from Figma)

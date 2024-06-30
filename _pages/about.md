@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "READ (about) ME 👋"
 toc: true
 toc_sticky: true
 toc_label: "MYSELF"
@@ -8,9 +8,8 @@ sidebar:
   nav: "sidebar-category"
 ---
 
-![android-chrome-192x192](https://github.com/sunhome243/sunhome243.github.io/assets/107231365/b51f77b0-82e7-4c9d-a54c-52c1ee142e6e)
+![android-chrome-512x512 dev](https://github.com/sunhome243/sunhome243.github.io/assets/107231365/9fdd82d5-1ac7-4824-9b8c-f80d313e89ab)
 
-# READ (about) ME 👋
 
 Hi! My name is **Sunho Kim**. I am currently studying at **Denison University**, majoring in Computer Science and set to graduate in '27. I have a passion for being a **DevOps engineer** and a **backend developer**. I enjoy developing and deploying my own services with my teammates, and I am always eager to learn and explore new technologies.
 
