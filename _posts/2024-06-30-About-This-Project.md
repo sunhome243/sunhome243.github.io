@@ -4,6 +4,7 @@ categories:
   - projects
 tags:
   - Major Projects
+  - Team Project
   - Backend
   - Python
   - Fast API

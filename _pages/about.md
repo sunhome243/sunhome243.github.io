@@ -4,6 +4,8 @@ title: "About"
 toc: true
 toc_sticky: true
 toc_label: "MYSELF"
+sidebar:
+  nav: "sidebar-category"
 ---
 
 ![icon](/apple-touch-icon.png)
@@ -18,13 +20,13 @@ I enjoy developing and deploying my own service with team mates
 What languages and libraries I am capable of...
 [Python](https://sunhome243.github.io/tags/#backend)
 Go
-Fast API
+[Fast API](https://sunhome243.github.io/tags/#fast-api)
 Flask
 
 What software tools I am capable of..
-Docker
-Kubernetes
-Postgre SQL
+[Docker](https://sunhome243.github.io/tags/#docker)
+[Kubernetes](https://sunhome243.github.io/tags/#kubernetes)
+Postgre SQL(https://sunhome243.github.io/tags/#postgre-sql)
 Jenkins
 Figma
 
