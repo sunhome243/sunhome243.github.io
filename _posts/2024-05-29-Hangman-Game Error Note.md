@@ -19,8 +19,6 @@ tags:
 sidebar:
   nav: "sidebar-category"
 
-header: 
-  teaser: "/assets/posting/hangman.jpg"  
 ---
 
 A minor project to create web-based Hangman Game
@@ -29,26 +27,24 @@ A minor project to create web-based Hangman Game
 
 Welcome to my very first project, Hangman—the classic word guessing game where players attempt to uncover a hidden word letter by letter. This web application brings the excitement of Hangman to your browser, featuring a collection of over 700 words for endless entertainment.
 
-### **Features**
+## Technologies Used
 
-- **Word Database**: Enjoy a diverse selection of over 700 words, ensuring each game is unique and challenging.
-- **Score Tracking**: Keep track of your progress with a built-in scoring system that records wins and streaks.
-- **Player Persistence**: Resume your game right where you left off by reusing your player name to jump back into the action.
-
-![Photo 1](/assets/posting/hangman.jpg)
-![Photo 2](/assets/posting/hangman3.jpg)
-
-
-
-### Technologies Used
-
-- **Frontend**: Designed with JavaScript, CSS, and HTML to provide an intuitive and engaging user experience.
 - **Frontend**: JavaScript, CSS, and HTML
 - **Backend**: Python (Flask)
 - **Containerization**: Docker
 - **Orchestration**: Kubernetes
 - **CI/CD Pipeline**: Jenkins
 - **Persistent Storage**: Azure (PV/PVC)
+
+
+## **Features**
+
+- **Word Database**: Enjoy a diverse selection of over 700 words, ensuring each game is unique and challenging.
+- **Score Tracking**: Keep track of your progress with a built-in scoring system that records wins and streaks.
+- **Player Persistence**: Resume your game right where you left off by reusing your player name to jump back into the action.
+
+![Photo 1](/assets/posting/Hangman.png)
+![Photo 2](/assets/posting/Hangman2.png)
 
 ## Updates
 

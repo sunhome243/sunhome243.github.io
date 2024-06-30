@@ -19,8 +19,7 @@ tags:
 sidebar:
   nav: "sidebar-category"
 
-header: 
-  teaser: "/assets/posting/error.jpg"  
+
 ---
 
 Errors that I have encountered during a minor project to create web-based Hangman Game

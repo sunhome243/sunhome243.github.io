@@ -14,15 +14,12 @@ tags:
 
 sidebar:
   nav: "sidebar-category"
-
-header: 
-  teaser: "/assets/posting/3742571.jpg"  
 ---
 
 A major project to create Fitness recording app.
 
 - Techniques Used
-    - Backend: Fast API
+    - Backend: Python (Fast API)
     - Frontend: Flutter or Swift or React Native (UI design exported from Figma)
     - Database: PostgreSQL
     - Database Migration: Alembic
