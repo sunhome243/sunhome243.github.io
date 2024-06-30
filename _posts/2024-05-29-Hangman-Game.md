@@ -11,7 +11,7 @@ tags:
   - Python
   - Flask
   - Javascript
-  - Html
+  - HTML
   - CSS
   - Docker
   - Kubernetes
