@@ -5,9 +5,9 @@ categories:
 tags:
   - major_projects
   - backend  
-  
+
 sidebar:
-  nav: "sidebar-category"
+  nav: "main"
 ---
 
 - Techniques Used
@@ -42,7 +42,7 @@ sidebar:
     I required high-performance capabilities for both reading and writing data, making PostgreSQL the ideal choice. PostgreSQL utilizes Multi-Version Concurrency Control (MVCC) for enhanced performance with concurrent transactions without heavy locking. It supports foreign data wrappers, robust concurrency control, and handles complex queries well, making it suitable for handling the demands of machine learning applications while maintaining relational integrity.
 
 ![Drawing2](https://github.com/sunhome243/sunhome243.github.io/assets/107231365/b6983548-020e-4add-9ff8-78a28d216922)
-
+*Algorithm Flow List*
 
 
 ### **Problem Identification:**
