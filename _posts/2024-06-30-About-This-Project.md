@@ -14,6 +14,9 @@ tags:
 
 sidebar:
   nav: "sidebar-category"
+
+header: 
+  teaser: "/assets/posting/3742571.jpg"  
 ---
 
 A major project to create Fitness recording app.

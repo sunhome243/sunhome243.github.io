@@ -18,6 +18,9 @@ tags:
 
 sidebar:
   nav: "sidebar-category"
+
+header: 
+  teaser: "/assets/posting/hangman.jpg"  
 ---
 
 A minor project to create web-based Hangman Game
@@ -31,6 +34,11 @@ Welcome to my very first project, Hangman—the classic word guessing game where
 - **Word Database**: Enjoy a diverse selection of over 700 words, ensuring each game is unique and challenging.
 - **Score Tracking**: Keep track of your progress with a built-in scoring system that records wins and streaks.
 - **Player Persistence**: Resume your game right where you left off by reusing your player name to jump back into the action.
+
+![Photo 1](/assets/posting/hangman.jpg)
+![Photo 2](/assets/posting/hangman3.jpg)
+
+
 
 ### Technologies Used
 

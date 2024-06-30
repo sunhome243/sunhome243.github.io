@@ -7,6 +7,9 @@ tags:
   - iPhone photos
 sidebar:
   nav: "sidebar-category"
+
+header: 
+  teaser: "/assets/images/25.jpg"
 ---
 
 This is my very first photo gallery post.
