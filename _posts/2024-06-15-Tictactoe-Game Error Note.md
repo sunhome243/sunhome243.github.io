@@ -1,5 +1,5 @@
 ---
-title: "The Tic-Tac-Toe Game Error Notes"
+title: "The Tic-Tac-Toe Game Error Note"
 categories:
   - errors
 tags:
