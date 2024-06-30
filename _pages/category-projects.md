@@ -2,6 +2,8 @@
 title: "Projects"
 layout: archive
 permalink: /projects
+sidebar:
+  nav: "sidebar-category"
 ---
 
 

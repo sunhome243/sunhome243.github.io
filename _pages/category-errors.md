@@ -2,6 +2,8 @@
 title: "Error Notes"
 layout: archive
 permalink: /errors
+sidebar:
+  nav: "sidebar-category"
 ---
 
 

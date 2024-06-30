@@ -2,6 +2,8 @@
 title: "Gallery"
 layout: archive
 permalink: /gallery
+sidebar:
+  nav: "sidebar-category"
 ---
 
 
