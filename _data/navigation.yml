@@ -10,7 +10,7 @@ main:
     url: /tags/
 
 sidebar-category:
-  - title: "💻 Programming"
+  - title: "💻 Lines"
     children:
       - title: "Projects"
         url: "/projects"
@@ -20,8 +20,8 @@ sidebar-category:
         url: "/errors"
         category: "errors"
 
-  - title: "📸 Photos"
+  - title: "📸 Lens"
     children:
       - title: "Gallery"
         url: "/gallery"
-        category: "eallery"
+        category: "gallery"
