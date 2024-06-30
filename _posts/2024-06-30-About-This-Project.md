@@ -3,11 +3,16 @@ title: "Fitness App - About This Project"
 categories:
   - projects
 tags:
-  - major_projects
-  - backend  
+  - Major Projects
+  - Backend
+  - Python
+  - Fast API
+  - Postgre SQL
+  - Docker
+  - Kubernetes
 
 sidebar:
-  nav: "main"
+  nav: "sidebar-category"
 ---
 
 - Techniques Used
