@@ -14,6 +14,10 @@ tags:
 
 sidebar:
   nav: "sidebar-category"
+
+toc: true
+toc_sticky: true
+toc_label: "The Fitness App Project"
 ---
 
 A major project to create Fitness recording app.

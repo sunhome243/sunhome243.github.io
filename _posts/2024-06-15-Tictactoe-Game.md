@@ -18,6 +18,11 @@ tags:
 
 sidebar:
   nav: "sidebar-category"
+
+toc: true
+toc_sticky: true
+toc_label: "TicTacToe Web Game Project"
+
 ---
 
 A minor project to create web-based Tic-Tac-Toe Game.
