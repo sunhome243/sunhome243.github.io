@@ -45,7 +45,7 @@ Working on projects with my team is something I thoroughly enjoy. I believe in t
 
 - [Major Projects](https://sunhome243.github.io/tags/#major-projects) : Big projects usually worked as a team.
 
-- [Minor Projects](https://sunhome243.github.io/tags/#minor-projects) : Small side projects usaully worked by mㅛself.
+- [Minor Projects](https://sunhome243.github.io/tags/#minor-projects) : Small side projects usaully worked by myself.
 
 
 
