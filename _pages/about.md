@@ -44,8 +44,11 @@ I'm a passionate **DevOps engineer** and **backend developer** with a love for d
 ## 📚 Projects & 💡 Collaboration
 I believe in the power of teamwork and effective communication. Check out some of my work:
 
-- [🚀 Major Projects](https://sunhome243.github.io/tags/#major-projects): Large-scale team collaborations, usually implementing my skills to solve real-world problems
-- [💻 Minor Projects](https://sunhome243.github.io/tags/#minor-projects): Personal side projects usually for learning and trying new technology skills
+- [Major Projects](https://sunhome243.github.io/tags/#major-projects) : Big projects usually worked as a team.
+
+- [Minor Projects](https://sunhome243.github.io/tags/#minor-projects) : Small side projects usaully worked by myself.
+
+
 
 ## 🤝 Let's Connect!
 I'm always open to new opportunities and collaborations. If you're looking for backend or DevOps skills for your next project, let's chat!
