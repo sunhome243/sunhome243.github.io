@@ -2,8 +2,16 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 search: false
 ---
-
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+
+.zoom-2:hover {
+    transform: scale(2.0);
+}
+
+.zoom-1-5:hover {
+    transform: scale(1.5);
+}

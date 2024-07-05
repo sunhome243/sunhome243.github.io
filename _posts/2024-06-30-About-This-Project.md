@@ -23,9 +23,7 @@ toc_label: "The Fitness App Project"
 
 ## 📖 Brief Project Description
 
-Welcome to my first major project
-
- our second project—a fully functional web application for the timeless game of Tic-Tac-Toe. This interactive platform brings the classic board game to life with a user-friendly interface and robust functionality.
+Welcome to my first major project - a fitness app that aims to maintain personalized training consistency across different gyms and during solo workouts. It features AI-powered recommendations, digital record-keeping, and tools for trainers to enhance the personal training experience.
 
 ## 📋 Table of Contents
 

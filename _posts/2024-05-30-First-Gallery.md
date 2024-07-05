@@ -8,6 +8,8 @@ tags:
 sidebar:
   nav: "sidebar-category"
 
+header:
+  teaser: "/assets/images/28.jpg"
 
 ---
 

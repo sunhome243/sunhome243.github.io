@@ -23,6 +23,9 @@ toc: true
 toc_sticky: true
 toc_label: "TicTacToe Web Game Project"
 
+header:
+  teaser: "/assets/posting/tictac5.png"
+
 ---
 🎮 Tic-Tac-Toe Web Application - Minor Project
 

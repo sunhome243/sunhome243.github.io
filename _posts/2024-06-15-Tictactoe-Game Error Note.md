@@ -19,6 +19,8 @@ tags:
 sidebar:
   nav: "sidebar-category"
 
+header:
+  teaser: "/assets/posting/errorteaser.jpg"
 ---
 
 Some of the errors that I have struggled during a minor project to create web-based Tic-Tac-Toe Game

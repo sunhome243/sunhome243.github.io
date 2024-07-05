@@ -22,9 +22,12 @@ sidebar:
 toc: true
 toc_sticky: true
 toc_label: "Hangman Project"
+
+header:
+  teaser: "/assets/posting/Hangman2.png"
 ---
 
-🎮 Hangman Web Application
+🎮 Hangman Web Application - Minor Project
 
 ![Hangman Game Banner](https://via.placeholder.com/1500x300.png?text=Hangman+Web+Game)
 
