@@ -19,7 +19,7 @@ toc: true
 toc_sticky: true
 toc_label: "The Fitness App Project"
 ---
-# 🏋️‍♀️ Workout recording app - Major Project
+🏋️‍♀️ Workout recording app - Major Project
 
 ## 📖 Brief Project Description
 

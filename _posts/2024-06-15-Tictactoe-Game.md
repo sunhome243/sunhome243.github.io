@@ -24,7 +24,7 @@ toc_sticky: true
 toc_label: "TicTacToe Web Game Project"
 
 ---
-# 🎮 Tic-Tac-Toe Web Application - Minor Project
+🎮 Tic-Tac-Toe Web Application - Minor Project
 
 
 ## 📖 Project Description

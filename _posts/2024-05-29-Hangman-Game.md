@@ -24,7 +24,7 @@ toc_sticky: true
 toc_label: "Hangman Project"
 ---
 
-# 🎮 Hangman Web Application
+🎮 Hangman Web Application
 
 ![Hangman Game Banner](https://via.placeholder.com/1500x300.png?text=Hangman+Web+Game)
 
