@@ -22,7 +22,7 @@ sidebar:
 
 ---
 
-Errors that I have encountered during a minor project to create web-based Hangman Game
+Some of the errors that I have struggled during a minor project to create web-based Hangman Game
 
 ## Challenges and Learnings
 
@@ -147,19 +147,3 @@ containers:
 
 Through these challenges, I learned the intricacies of developing a web application, containerizing it, and orchestrating with Minikube. It was a challenging but rewarding process.
 
-## Updates
-
-**05.23.2024** 
-
-- Updated the docker image to a multi-platform image that will work with on both ARM and AMD architecture. This allows users to use this image on GCP.
-
-**05.27.2024**
-
-- Added Jenkins pipeline file for CI/CD.
-
-**05.29.2024**
-
-- Added user name input section at the start of the game.
-- Added user score and streak feature to the game.
-- Moved the platform from GKE to Azure.
-- Added consistent volume and consistent volume claim on Kubernetes to save user data.

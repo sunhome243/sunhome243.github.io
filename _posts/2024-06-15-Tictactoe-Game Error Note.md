@@ -21,7 +21,7 @@ sidebar:
 
 ---
 
-Errors that I have encountered during a minor project to create web-based Tic-Tac-Toe Game
+Some of the errors that I have struggled during a minor project to create web-based Tic-Tac-Toe Game
 
 
 ## Challenges and Learnings
