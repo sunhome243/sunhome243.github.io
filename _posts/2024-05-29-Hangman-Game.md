@@ -19,7 +19,6 @@ toc_label: "Hangman Project"
 header:
   teaser: "/assets/posting/Hangman2.png"
 ---
-
 🎮 Hangman Web Application - Minor Project
 
 ## 📖 Project Description

@@ -15,8 +15,10 @@ sidebar:
 toc: true
 toc_sticky: true
 toc_label: "The Fitness App Project"
----
 
+header:
+  teaser: "/assets/posting/fitsync.png"
+---
 🚀 Project Progress and Future Plans
 
 # 🚀 Project Progress and Future Plans
