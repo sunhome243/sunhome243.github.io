@@ -6,11 +6,8 @@ tags:
   - Major Projects
   - Team Project
   - Backend
-  - Python
-  - Fast API
-  - Postgre SQL
-  - Docker
-  - Kubernetes
+  - Frontend
+  - Full Stack
 
 sidebar:
   nav: "sidebar-category"
@@ -47,8 +44,6 @@ Welcome to my first major project - a fitness app that aims to maintain personal
 
 ### Frontend
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Database

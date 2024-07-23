@@ -6,11 +6,6 @@ tags:
   - Major Projects
   - Team Project
   - Backend
-  - Python
-  - Fast API
-  - Postgre SQL
-  - Docker
-  - Kubernetes
 
 sidebar:
   nav: "sidebar-category"

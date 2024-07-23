@@ -8,13 +8,6 @@ tags:
   - Backend
   - Frontend
   - Full Stack
-  - Python
-  - Flask
-  - Javascript
-  - HTML
-  - CSS
-  - Docker
-  - Kubernetes
 
 sidebar:
   nav: "sidebar-category"
@@ -28,8 +21,6 @@ header:
 ---
 
 🎮 Hangman Web Application - Minor Project
-
-![Hangman Game Banner](https://via.placeholder.com/1500x300.png?text=Hangman+Web+Game)
 
 ## 📖 Project Description
 

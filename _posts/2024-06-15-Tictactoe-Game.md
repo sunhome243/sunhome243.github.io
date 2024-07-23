@@ -8,13 +8,6 @@ tags:
   - Backend
   - Frontend
   - Full Stack
-  - Python
-  - Flask
-  - Javascript
-  - HTML
-  - CSS
-  - Docker
-  - Kubernetes
 
 sidebar:
   nav: "sidebar-category"
