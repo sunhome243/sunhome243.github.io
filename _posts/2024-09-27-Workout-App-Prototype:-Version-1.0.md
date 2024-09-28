@@ -1,5 +1,5 @@
 ---
-title: "Workout App MVP: Revolutionizing Personal Training with Technology"
+title: "Workout App MVP: Personal Training with Technology"
 categories:
   - projects
 tags:
