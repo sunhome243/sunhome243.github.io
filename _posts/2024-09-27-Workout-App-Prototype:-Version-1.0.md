@@ -17,8 +17,6 @@ header:
   teaser: "/assets/posting/fitsync.png"
 ---
 
-# Workout App MVP: Personal Training with Technology
-
 ## 📌 Project Overview and Goals
 
 As the sole developer of this innovative workout application, I've taken on the challenge of maintaining personalized training consistency across different gyms and during solo workouts. This project addresses several key challenges I've identified in the personal training industry:
@@ -38,6 +36,13 @@ My solution provides:
 - Improved client-trainer communication
 - Efficient digital record-keeping
 - AI-powered recommendations for solo workouts
+
+## 📂 Project Repositories
+
+For those interested in exploring the code or contributing to the project, you can find the source code in the following GitHub repositories:
+
+- Backend Repository: [Workout-app-prototype-backend](https://github.com/sunhome243/Workout-app-prototype-backend)
+- Frontend Repository: [gym_app_prototype_frontend](https://github.com/sunhome243/gym_app_prototype_frontend)
 
 ## 🛠️ Technology Stack
 
@@ -230,7 +235,6 @@ As the next phase of this project, I'm planning to set up the DevOps pipeline an
 - The deployment target will be Azure Kubernetes Service (AKS) for robust cloud infrastructure.
 - Future steps include implementing Prometheus for monitoring and Grafana for visualization.
 
-
 ## 💡 Challenges and Solutions
 
 Throughout this project, I've encountered and overcome several challenges:
@@ -272,4 +276,4 @@ The completion of this MVP marks a significant personal achievement in my develo
 
 As I move forward, I'm excited about the possibilities for growth and improvement. I'm committed to continually refining the app based on user feedback and emerging technologies. My next steps include extensive user testing, iterating on the AI recommendations, and exploring partnerships with fitness centers and equipment manufacturers.
 
-Stay tuned for more updates as I  to evolve and expand this application. I believe this project has the potential to make a real difference in people's fitness journeys, and I'm thrilled to be at the forefront of this exciting intersection of technology and health.
+Stay tuned for more updates as I to evolve and expand this application. I believe this project has the potential to make a real difference in people's fitness journeys, and I'm thrilled to be at the forefront of this exciting intersection of technology and health.
