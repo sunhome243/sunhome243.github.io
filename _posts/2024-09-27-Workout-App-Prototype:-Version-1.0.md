@@ -223,24 +223,23 @@ class Quest(Base):
 
 ### DevOps and Deployment
 
-I'm currently in the process of setting up the DevOps pipeline and deployment strategy:
+As the next phase of this project, I'm planning to set up the DevOps pipeline and deployment strategy:
 
-- I've containerized services using Docker for consistency across environments.
-- I'm configuring Kubernetes for orchestration, which will enable easy scaling and management.
-- I'm preparing to deploy on Azure Kubernetes Service (AKS) for robust cloud infrastructure.
-- My next steps include implementing Prometheus for monitoring and Grafana for visualization, which I'll be connecting soon.
+- I plan to containerize services using Docker for consistency across environments.
+- I will configure Kubernetes for orchestration, which will enable easy scaling and management.
+- The deployment target will be Azure Kubernetes Service (AKS) for robust cloud infrastructure.
+- Future steps include implementing Prometheus for monitoring and Grafana for visualization.
+
 
 ## 💡 Challenges and Solutions
 
-Throughout this solo project, I've encountered and overcome several challenges:
+Throughout this project, I've encountered and overcome several challenges:
 
 1. **Database Schema Design**: Ensuring efficient data retrieval while maintaining relational integrity was challenging. I solved this by carefully normalizing and denormalizing data, and implementing efficient indexing strategies.
 
 2. **Real-time Synchronization**: Keeping workout data synchronized across devices in real-time presented challenges. I implemented a robust WebSocket solution to ensure instant updates.
 
-3. **Kubernetes Learning Curve**: Adapting to Kubernetes orchestration had a steep learning curve. I'm overcoming this through extensive self-study and starting with a minimal viable cluster, gradually expanding my usage as I become more comfortable with the technology.
-
-4. **Authentication Integration**: Switching from a custom auth service to Firebase Auth required careful integration and testing to ensure secure and seamless user authentication across all services. I dedicated significant time to understanding Firebase Auth's intricacies and ensuring smooth integration with my existing services.
+3. **Authentication Integration**: Switching from a custom auth service to Firebase Auth required careful integration and testing to ensure secure and seamless user authentication across all services. I dedicated significant time to understanding Firebase Auth's intricacies and ensuring smooth integration with my existing services.
 
 ## 🔮 Future Plans
 
@@ -261,12 +260,7 @@ As the sole developer of this project, I have focused plans for its future:
    - Collaborate with telehealth providers to offer virtual fitness consultations.
    - Target market: Remote workers and individuals in rural areas with limited access to fitness professionals.
 
-4. **Rehabilitation Focus**:
-
-   - Develop features for post-injury or post-surgery workout plans.
-   - Target market: Physical therapy clinics and rehabilitation centers.
-
-5. **Wearable Tech Synergy**:
+4. **Wearable Tech Synergy**:
    - Integrate with popular fitness wearables for comprehensive health tracking.
    - Target market: Tech-savvy fitness enthusiasts and quantified self advocates.
 
@@ -278,8 +272,4 @@ The completion of this MVP marks a significant personal achievement in my develo
 
 As I move forward, I'm excited about the possibilities for growth and improvement. I'm committed to continually refining the app based on user feedback and emerging technologies. My next steps include extensive user testing, iterating on the AI recommendations, and exploring partnerships with fitness centers and equipment manufacturers.
 
-Stay tuned for more updates as I continue to evolve and expand this application. I believe this project has the potential to make a real difference in people's fitness journeys, and I'm thrilled to be at the forefront of this exciting intersection of technology and health.
-
----
-
-Thank you for following along on this journey. If you have any questions or would like to know more about specific aspects of the project, feel free to reach out or leave a comment below!
+Stay tuned for more updates as I  to evolve and expand this application. I believe this project has the potential to make a real difference in people's fitness journeys, and I'm thrilled to be at the forefront of this exciting intersection of technology and health.
