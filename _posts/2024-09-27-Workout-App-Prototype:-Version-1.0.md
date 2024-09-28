@@ -145,7 +145,7 @@ Using Flutter, I've created a responsive and intuitive user interface. Key scree
      <tr>
        <td><img src="/assets/posting/trainer_home.png" alt="Trainer Home" width="200"/></td>
        <td><img src="/assets/posting/trainer_profile.png" alt="Trainer Profile" width="200"/></td>
-       <td><img src="/assets/posting/trainer_all_sessions.png" alt="Trainer All Sessions" width="200"/></td>
+       <td><img src="/assets/posting/trainer_all_session.png" alt="Trainer All Sessions" width="200"/></td>
        <td><img src="/assets/posting/trainer_workout_plan.png" alt="Trainer Workout Plan" width="200"/></td>
      </tr>
    </table>
