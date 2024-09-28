@@ -217,7 +217,7 @@ class Quest(Base):
 
 <table>
   <tr>
-    <td><img src="/assets/posting/detailed-database-schema-svg.png" alt="Detailed Database Schema" width="400"/></td>
+    <td><img src="/assets/posting/detailed-database-schema-svg.png" alt="Detailed Database Schema" width="1000"/></td>
   </tr>
 </table>
 
