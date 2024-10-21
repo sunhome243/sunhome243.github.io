@@ -247,7 +247,7 @@ Throughout this project, I've encountered and overcome several challenges:
 
 ## 🔮 Future Plans
 
-As the sole developer of this project, I have focused plans for its future:
+As the developer of this project, I have focused plans for its future:
 
 1. **AI-Powered Personal Trainer**:
 
