@@ -1,14 +1,15 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Sunho's Dev Blog
+title: Sunho's Dev Blog
+description: Dev Blog of Sunho Kim, a student developer.
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - developer
+  - student
+  - software developer
+  - software
+  - developer blog
+  - DevOps
 show_hero: true
 menu:
   - title: Home
@@ -19,22 +20,18 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: sunhome243@gmail.com
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username: 
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+formspree_form_id: 
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: sunhome243
+linkedin_username: sunhokim070202
 
 
 # Posts Settings
@@ -61,7 +58,7 @@ collections:
   authors:
     output: true
 paginate_path: "/page/:num/"
-show_get_theme_btn: true
+show_get_theme_btn: false
 use_logo: false
 
 # Content paginator
@@ -92,22 +89,23 @@ plugins:
   - jekyll-paginate-content
 
 # Exclude my node related stuff
-exclude: [
-  'docs/',
-  'vendor/',
-  'LICENSE',
-  'CHANGELOG.md',
-  'jekflix.gemspec',
-  'package.json',
-  'package-lock.json',
-  'src',
-  'node_modules',
-  'initpost.sh',
-  'Gemfile',
-  'Gemfile.lock',
-  'gulpfile.js',
-  'README.md'
-]
+exclude:
+  [
+    "docs/",
+    "vendor/",
+    "LICENSE",
+    "CHANGELOG.md",
+    "jekflix.gemspec",
+    "package.json",
+    "package-lock.json",
+    "src",
+    "node_modules",
+    "initpost.sh",
+    "Gemfile",
+    "Gemfile.lock",
+    "gulpfile.js",
+    "README.md",
+  ]
 
 # Theme
 version: v3.1.2

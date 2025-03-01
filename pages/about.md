@@ -1,19 +1,14 @@
 ---
 layout: page
 menu: false
-date: '2020-02-27 01:53:59'
+date: "2020-02-27 01:53:59"
 title: About
 description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thomas A. Anderson" width="200">
+<img class="img-rounded" src="https://ih1.redbubble.net/image.618410924.2644/flat,750x1000,075,t.u12.jpg" alt="Sunho Kim" width="200">
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I'm a passionate DevOps engineer and backend developer with a love for developing and deploying services. Always eager to learn and explore new technologies, I thrive on the challenges of automating processes and building robust, scalable systems along with doing fun personal projects!
