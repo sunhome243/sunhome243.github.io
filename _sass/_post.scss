@@ -69,15 +69,15 @@
     @include center(rem(800px));
     @include mainFont(400);
     font-size: rem(17px);
-    line-height: rem(30px);
+    line-height: rem(24px);
     letter-spacing: 0.025rem;
     padding: 0 rem(20px);
-    margin: rem(20px) auto 0;
+    margin: rem(15px) auto 0;
 
     @include media(">=sm") {
       font-size: rem(20px);
-      line-height: rem(40px);
-      margin: rem(29px) auto 0;
+      line-height: rem(30px);
+      margin: rem(20px) auto 0;
     }
   }
 
@@ -153,7 +153,7 @@
   }
 
   li {
-    padding: rem(10px) 0;
+    padding: rem(5px) 0; // 여기를 10px에서 5px로 줄임
 
     ul {
       margin-bottom: 0;
@@ -187,11 +187,11 @@
   h6 {
     @include mainFont(700);
     margin-top: 0;
-    padding-top: rem(50px);
+    padding-top: rem(40px); // 여기를 50px에서 40px로 줄임
 
     @include media(">=sm") {
       margin-top: 0;
-      padding-top: rem(60px);
+      padding-top: rem(45px); // 여기를 60px에서 45px로 줄임
     }
   }
   h1 {
@@ -249,8 +249,10 @@
       font-size: rem(17px);
       color: rgba(0, 0, 0, 0.6);
       margin: 0;
+      line-height: rem(24px); // 블록인용문 내부 줄간격 추가
       @include media(">=sm") {
         font-size: rem(20px);
+        line-height: rem(30px); // 블록인용문 내부 줄간격 추가
       }
     }
   }

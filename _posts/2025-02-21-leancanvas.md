@@ -165,5 +165,3 @@ _Smart Strip's scene setting screen. For every situation, the user have to manua
 - **Price Sensitivity & MVP Surveys**: Confirm hardware cost acceptance, subscription willingness to pay.
 - **AI Cost Analysis**: Finalize “free vs. paid tier” usage limits and AI call expenses.
 - **Feature Prioritization**: Validate additional features (scheduler, auto color transitions, etc.) via beta tests.
-
----
