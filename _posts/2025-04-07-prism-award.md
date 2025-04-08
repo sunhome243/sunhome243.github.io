@@ -146,7 +146,7 @@ At the competition, we demonstrated Project Prism live on stage. When I said, "I
 
 The questions that followed focused on market potential and scaling strategy. Our answers emphasized:
 
-1. **Cost advantage**: $5 hardware cost vs. $50+ for competitive smart LED systems
+1. **Cost advantage**: $9.99 hardware cost vs. $50+ for competitive smart LED systems
 2. **Platform potential**: The ability to extend beyond LED strips to any IR-controlled devices
 3. **Sustainability angle**: Upgrading existing hardware rather than replacing it
 
