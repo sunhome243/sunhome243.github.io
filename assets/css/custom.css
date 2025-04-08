@@ -1,0 +1,44 @@
+/* Responsive video container */
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  margin-bottom: 1.5rem;
+  background-color: #000;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* Portrait image styling */
+.portrait-image-container {
+  text-align: center;
+  margin: 30px 0;
+}
+
+.portrait-image {
+  max-width: 60%;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 5px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  display: block;
+}
+
+.portrait-caption {
+  margin-top: 10px;
+  font-style: italic;
+  color: #666;
+  text-align: center;
+}
