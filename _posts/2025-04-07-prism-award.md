@@ -44,9 +44,9 @@ That's when my eyes landed on another LED strip—a simple, non-smart one gifted
 
 Most people would look at upgrading their lighting by purchasing an expensive new smart system. But as an engineer, I saw a different path:
 
-```
-What if the solution wasn't replacing hardware, but augmenting it with AI?
-```
+
+***What if the solution wasn't replacing hardware, but augmenting it with AI?***
+
 
 ## From Concept to Prototype
 
