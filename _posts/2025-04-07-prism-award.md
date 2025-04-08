@@ -31,7 +31,7 @@ I'm thrilled and incredibly honored to announce that **Project Prism** has won f
 Before diving into the details, here's our elevator pitch that summarizes what Project Prism is all about:
 
 <div class="video-container">
-    <iframe width="100%" height="315" src="https://youtu.be/U2kTW8duh9I" title="Project Prism Elevator Pitch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/U2kTW8duh9I" title="Project Prism Elevator Pitch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## The Spark That Started It All
@@ -157,7 +157,7 @@ The judges particularly appreciated our problem-first approach, addressing a rea
 Here's the full recording of our winning pitch at the Denison University Startup Competition:
 
 <div class="video-container">
-    <iframe width="100%" height="500" src="https://youtu.be/hOgqRIveg94" title="Project Prism - Winning Pitch at Denison University Startup Competition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="100%" height="500" src="https://www.youtube.com/embed/hOgqRIveg94" title="Project Prism - Winning Pitch at Denison University Startup Competition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### Our Roadmap: From Campus to Market
@@ -181,6 +181,9 @@ We have a clear vision for taking Project Prism from a winning concept to a mark
 - **Crowdfunding Campaign**: Launching a Kickstarter or Indiegogo campaign to validate broader market interest and generate initial capital
 - **Manufacturing Partnerships**: Securing reliable production capabilities for larger batch sizes (1,000+ units)
 - **Direct Sales Launch**: Beginning with direct-to-consumer sales through our website and select campus bookstores
+
+![Roadman](../assets/img/posts/roadmap.png)
+_Future roadmap_
 
 ### Financial Projections: A Sustainable Model
 
