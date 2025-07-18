@@ -1,7 +1,7 @@
 ---
 date: 2025-07-18 19:53:12
 layout: post
-title: "nexus cli project"
+title: "Nexus CLI Open Source Project"
 subtitle: "A unified CLI interface for seamlessly switching between AI models"
 description: "Nexus CLI lets you switch between Claude and Gemini mid-conversation with just Ctrl+S, preserving full context. Built during my Wondermove internship to solve the friction of juggling multiple AI CLIs."
 image: https://cache.desktopnexus.com/thumbseg/1432/1432289-bigthumbnail.jpg
@@ -17,9 +17,15 @@ paginate: false
 
 # The Birth of Nexus: A Unified CLI For a Fractured AI World
 
+![Beta](https://img.shields.io/badge/status-beta-orange.svg)
+
+> <https://github.com/sunhome243/nexus-cli>
+
 ![Nexus CLI Demo](/assets/img/posts/nexus-demo-1.gif)
 
 **TL;DR**: Frustrated by juggling multiple AI CLIs, I built Nexus CLI during my Wondermove internship—a unified interface that lets you seamlessly switch between Claude and Gemini mid-conversation with MCP and with just Ctrl+S, all context preserved. It's a POC beta with a lot of known issues, but it's open source and available as `@wondermoveinc/nexus-cli`. Looking for contributors to help make it better!
+
+> **Beta Notice**: This is a proof-of-concept beta version with known issues and limitations. Please check the [GitHub issues](https://github.com/sunhome243/nexus-cli/issues) for current status and help us improve it!
 
 ## The Beginning
 
