@@ -50,33 +50,95 @@ Before writing a single line of code, I defined my "must-have" features. This wa
 
 ### The Payoff: Nexus in Action
 
-All that work led to a seamless experience that feels like magic. Here's a look at the final product before I dive into how I built it.
+All that work led to a seamless experience that feels like magic. Here are the few usage examples.
 
-#### Provider Switching in a Keystroke
+#### Basic Conversation
 
 ```bash
 nexus
-> Explain microservices architecture
+
+> Explain the concept of dependency injection
+
+[Claude provides explanation]
+```
+
+#### Provider Switching and Shared Memory with full context
+
+```bash
+> Create a plan to implement feature A
+
 [Claude response]
 
 Ctrl+S  # Switch to Gemini
 
 > What are the potential drawbacks?
-[Gemini builds on the conversation seamlessly]
+
+[Gemini builds on the previous conversation seamlessly]
 ```
 
-#### Advanced Features via the Dashboard
+#### Advanced Planning
 
 ```bash
 /dashboard
 
-# Turn on Auto Opus mode for complex tasks
-# Monitor token usage to avoid rate limits
+# Turn on the Auto Opus mode
+# Turn on plan mode in Claude
+
+[Shift+tab for plan mode. The model automatically changes to Opus.]
+
+> Plan a scalable e-commerce architecture
+
+[Enhanced planning response with Opus model]
+
+Ctrl+S  # Switch to Gemini
+
+> Is this plan accurate?
+
+[Gemini validates on the plan]
+```
+
+Opus model is only available on Claude Max plan
+
+#### Cross-Model Consultation with Ask Model MCP
+
+```bash
+> Create a Python function to parse CSV files
+
+[Claude provides implementation]
+
+> Plan to fix this issue and get a review from Gemini using askmodel MCP
+
+[Claude creates a plan and automatically asks Gemini for review with full context]
+
+> Ask Genini to suggest optimizations for this code using askmodel
+
+[Current model consults Gemini with the conversation context]
+
+> Get a second opinion from Gemini on this architectural decision
+
+[Seamlessly requests Gemini\'s analysis while preserving conversation history]
+```
+
+#### Token Usage Monitoring
+
+```bash
+/dashboard
+
+# Wait until Usage Statistics is loaded
 
 Usage Statistics
 🤖 Claude Usage (5-hour windows)
-Plus:   ▓▓▓▓▓▓▓▓▓▓ 9,290/7,000 (132.7%) ⚠️
+Plus: ▓▓▓▓▓▓▓▓▓▓ 9,290/7,000 (132.7%) ⚠️
    Resets in: 4h 22m
+Max 5x: ▓▓▓░░░░░░░ 9,290/35,000 (26.5%)
+   Resets in: 4h 22m
+Max 20x: ▓░░░░░░░░░ 9,290/140,000 (6.6%)
+   Resets in: 4h 22m
+
+Note: Token counts may differ from Claude's official calculation
+(Cache tokens might be counted differently)
+
+🔷 Gemini Usage
 ...
 ```
 
@@ -213,7 +275,7 @@ This seemingly small optimization had a huge impact on reliability and performan
 
 From a simple desire to reduce friction, Nexus CLI became a deep dive into engineering and reverse-engineering. By defining my needs, chasing down mysteries, and building creative solutions, I built the seamless, unified AI command line I always wanted.
 
-The real lesson? Sometimes the best solutions require going deeper. I didn't just build a wrapper; I built a new paradigm for AI interaction in the terminal, one that's modular and ready to adapt as the AI landscape continues to evolve. Whether it's the rumored Grok CLI or the next breakthrough we haven't even imagined yet, Nexus is ready.
+The real lesson? Sometimes the best solutions require going deeper. I didn't just build a wrapper; I believe this is a new way for AI interaction in the terminal, one that's modular and ready to adapt as the AI landscape continues to evolve. Whether it's the rumored Grok CLI or the next breakthrough we haven't even imagined yet, Nexus is ready.
 
 ### Get Involved
 
