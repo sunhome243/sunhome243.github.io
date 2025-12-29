@@ -111,12 +111,12 @@ Each Lambda invocation:
 
 **Measured performance (per invocation):**
 
-| Metric                      | Value       |
-| --------------------------- | ----------- |
-| Average latency             | ~28 seconds |
-| P99 latency                 | ~45 seconds |
-| Max observed                | ~62 seconds |
-| LLM calls per session (P99) | 2-6 calls   |
+| Metric                        | Value       |
+| ----------------------------- | ----------- |
+| Average latency               | ~28 seconds |
+| P99 latency                   | ~45 seconds |
+| Max observed                  | ~62 seconds |
+| Typical LLM calls per request | 2-6 calls   |
 
 **The key insight**: Each Lambda invocation is independent and short-lived. We don't maintain server-side state between turns—the client sends conversation history with each request. This "stateless" design means:
 
