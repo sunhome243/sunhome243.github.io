@@ -54,6 +54,7 @@ This isn't a simple Q&A chatbot. The Socratic Engine guides students through pro
 A wrong response doesn't just waste time—it teaches incorrect concepts that the mastery system then reinforces. The cost of hallucination (student learning wrong material, eroded trust, academic harm) far exceeds the cost of using a premium model.
 
 _Success metric_: < 2% factual error rate in step explanations and MCQ generation
+
 _Cost tolerance_: High—accuracy trumps cost
 
 **Brain Dump & Assignment Extraction**
@@ -68,6 +69,7 @@ Two critical requirements emerged:
 Students might brain dump multiple times daily, so cost matters. But the real constraint was finding a model with low hallucination AND moderate completeness—cheap models that miss tasks or invent phantom tasks both fail the user.
 
 _Success metric_: Zero invented tasks, > 95% task coverage
+
 _Cost tolerance_: Low—but not at the expense of reliability
 
 **Task Priority Engine**
@@ -77,6 +79,7 @@ The core question: Do we even need an LLM for this?
 Initially, I planned to use an LLM for nuanced prioritization. But during evaluation, I realized: prioritization is fundamentally about applying consistent rules to structured data. The Eisenhower matrix (urgent/important) combined with custom variables (deadline proximity, estimated effort, current progress) could handle this deterministically—faster, cheaper, and more predictable than an LLM.
 
 _Success metric_: User follows recommendation > 70% of the time
+
 _Cost tolerance_: Zero—no LLM means no per-request cost
 
 **Professor Fix Package & Tutor Visualization Engine**
@@ -91,6 +94,7 @@ Two distinct but related needs emerged:
 Both require strong code generation (for interactive visualizations) and pedagogical accuracy. The content must be correct—a visualization that reinforces a misconception is worse than no visualization at all.
 
 _Success metric_: Generated content is pedagogically accurate and visualizations render correctly > 95%
+
 _Cost tolerance_: Medium—quality over cost, but not unlimited
 
 ### Scoping Summary
