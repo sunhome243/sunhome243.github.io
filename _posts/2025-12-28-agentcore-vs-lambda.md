@@ -13,6 +13,7 @@ tags:
   - bedrock
   - serverless
   - ai
+  - architecture
 author: Sunho Kim
 paginate: false
 ---
