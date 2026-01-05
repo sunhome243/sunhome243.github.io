@@ -101,6 +101,17 @@ In standard LLM development, "Few-Shot Prompting" (giving the model examples of 
 
 It felt like the model was "over-fitting" to the prompt structure rather than reasoning through the instructions.
 
+### The Async Multi-Agent Experiment
+
+Given the zero-cost nature of the model, I attempted another workaround: breaking down the workflow into smaller, independent tasks handled by multiple LLM sessions running asynchronously. The idea was simple—if a single session couldn't handle the full context, perhaps multiple specialized agents could each handle a piece.
+
+This approach failed for two reasons:
+
+- **Parrot Effect at Scale**: Each independent session suffered from the same prompt-overfitting issue. When one agent's output became another's input, the downstream agents would simply echo the structure without adding meaningful analysis.
+- **Lost in Context**: Without shared memory or a sufficiently large context window, critical information was dropped between sessions. The final output felt disjointed and missed key connections that required understanding the full document.
+
+Even with async execution minimizing latency, the user experience was unacceptable. The outputs lacked coherence, and the reliability was too low for production use.
+
 ### Ecosystem Friction
 
 If you are used to the rich ecosystem of Python, LangChain, or LlamaIndex, you are on your own here.
