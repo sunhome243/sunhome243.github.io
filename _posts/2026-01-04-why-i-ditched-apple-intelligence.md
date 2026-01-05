@@ -136,6 +136,6 @@ I believe the Apple Foundation Model has a place. I have seen multiple cool capa
 
 ## Conclusion
 
-For now, I am switching back to a server-side solution. I'll have to pay the inference cost, but the performance will be stable, community is more vibrant, and the tools are mature enough to get the reasoning capability I need.
+For now, I am switching back to a server-side solution. I'll have to pay the inference cost, but the performance will be stable, community is more vibrant, and the tools are mature enough to get the reasoning capability I need. I have to admit that I can not expect too much from a free, 3B, hybrid model, but I had hoped for a bit more. (I was NOT expecting 4000 token context window)
 
 Apple's engineering is marvelous, but physics is physics. A heavily quantized 3B model with a 4k context window simply cannot handle the reasoning density required for a personalized agentic workflow. I might revisit this when the hardware can support more context window, but for now, privacy and cost aren't worth the trade-off in utility.
